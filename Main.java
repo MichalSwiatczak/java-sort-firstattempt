@@ -1,4 +1,3 @@
-package Private;
 /*
 TASK is: 
 Sort data.txt file into two categories.
