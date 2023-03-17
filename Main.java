@@ -7,9 +7,7 @@ Sort data.txt file into two categories.
  Regular expressions to identify groups are:
 '"'+ "(.*?)" + '"' 
 "\\" + "[(.*?)\\" + "]" 
-
 */
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.List;
